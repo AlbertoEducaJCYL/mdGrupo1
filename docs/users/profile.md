@@ -2,7 +2,7 @@
 
 Frontend apartado __profile__ de Spotify.
 
-![Profile](../../assets/users-profile.png)
+![Profile](./../../assets/users-profile.png)
 
 ## Contenidos
     - Nombre de usuario

@@ -12,4 +12,4 @@ Frontend apartado __account__ de Spotify.
     - Genero
     - Tipo de suscripción (básica, premium...)
 
-![Account](/assets/users-account.png)
+![Account](./../../assets/users-account.png)
