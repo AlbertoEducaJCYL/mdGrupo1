@@ -2,11 +2,11 @@
 
 # Artistas
 
-Frontend apartado __artist__ de Spotify.
+Apartado __artist__ de Spotify.
 
 ### Ejemplo
 
-![Artista Ejemplo](/assets/badb.png)
+![Artista Ejemplo](/assets/artista-badb.png)
 - [Bad Bunny](https://open.spotify.com/intl-es/artist/4q3ewBCX7sLwd24euuV69X)
 
 ## Contenidos
@@ -40,4 +40,6 @@ Frontend apartado __artist__ de Spotify.
     - Oyentes mensuales
     - Descripción
 
-# Extra
+# Referencias API oficial
+
+- [Documentación de artistas Spotify](https://developer.spotify.com/documentation/web-api/reference/get-an-artist)
