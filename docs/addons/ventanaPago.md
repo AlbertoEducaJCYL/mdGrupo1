@@ -30,3 +30,11 @@ Aquí eliges cómo quieres pagar:
 
 
 ### ___Resumen de la compra___
+
+Es el "ticket" antes de comprar. Te informa de:
+
+- Lo que pagas en el momento.
+
+- Lo que pagarás después: El precio mensual normal.
+
+- Fecha de renovación: El día exacto en que te volverán a cobrar.
