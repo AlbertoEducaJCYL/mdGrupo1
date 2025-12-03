@@ -32,16 +32,3 @@ Centro: Botones de Play/Pausa, Anterior y Siguiente.
 
 Derecha: Control de volumen y dispositivos (para enviar música a un altavoz).
 
- - Ideas
-    - Primera pantalla que se ve 
-        - [x] Introducción 
-        - [x] Estructura
-            - [] Barra lateral y navegacion
-            - [x] Contenido central
-            - [] Barra reproducción 
-    - Canciones populares
-    - artistas populares 
-    - Albumes populares 
-    - listas recomendadas
-
-
